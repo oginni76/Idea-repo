@@ -25,13 +25,23 @@ Users can practise their interview skills here
 And we can make it freelance so demand can meet supply
 
 
+
 ##4 Attendance Application that can only work on the sch's wifi network
 
 Many users stab classes and this is getting higher in this digital day and age. Most students tell their peers to help sign for them while absent and this is very wrong.
 This attendace application will take the students attendance twice 10 minutes before class and after class.
 They just need to signin and tick the clickbox
-
 The webapp would work on the sch's local wifi and would not need the use of data
+
+
+##5 Social Campaign for Road Safety
+Problem Statement
+Most Nigerians use their seatbelts due to the fear of Lastma and authorities. Once that is not there they don't.
+This orientation is very wrong and needs to change.
+Social awareness needs to be carried out.
+
+
+
 
 
 ##Felt like I'd never write these out
