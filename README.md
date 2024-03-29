@@ -40,6 +40,10 @@ Most Nigerians use their seatbelts due to the fear of Lastma and authorities. On
 This orientation is very wrong and needs to change.
 Social awareness needs to be carried out.
 
+Step 1 - Create a google form
+Questions - when do you use your seat belt, immediately you get in, when you see a police or lastma
+When do you take it off, after passing a checkpoint, when you get to your destination, when you feel uncomfortable.
+
 
 
 
