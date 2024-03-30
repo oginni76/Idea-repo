@@ -44,6 +44,22 @@ Step 1 - Create a google form
 Questions - when do you use your seat belt, immediately you get in, when you see a police or lastma
 When do you take it off, after passing a checkpoint, when you get to your destination, when you feel uncomfortable.
 
+Checked the fine for not using your beltin Lagos state.
+20k first time
+30k second or subsequent times
+or 6 months
+But this isn't the problem 
+we should make them se that its for our own safety and not the 20k fine
+
+Possible solutions 
+MASSIVE AWARENESS
+From the roadside hawker, down to the top executive
+Videos showing this impact should be placed on electric billboards and put in strategic places
+Fliers should be printed and shared out
+A 1 week online course on road safety should be taken by defaulters(Course would be taught by professionals and also youtube videos)
+
+
+
 
 
 
