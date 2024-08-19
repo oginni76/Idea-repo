@@ -59,6 +59,10 @@ Fliers should be printed and shared out
 A 1 week online course on road safety should be taken by defaulters(Course would be taught by professionals and also youtube videos)
 
 
+#6 - An app or extension that can blur and mute out sex scenes or nude contents in movies.
+
+
+
 
 
 
