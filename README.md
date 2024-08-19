@@ -6,7 +6,7 @@ Feel free, to message, email or reach out to me for collaboration and let's buil
 We're software engineers, we can build anything!
 
 
-##1. A way to secure or track mobile phones when stolen
+# 1. A way to secure or track mobile phones when stolen
 
 Proposed Idea
 Have a web app where each users can come and register their phones using IMEI.
@@ -14,11 +14,11 @@ So we have a cross referencing and can flag it if two different users are trying
 
 
 
-##2. A web or mobile app that tells if you have light in your area in realtime.
+## 2. A web or mobile app that tells if you have light in your area in realtime.
 This is spcifically for Nigerians cause sadly we're yet to have 24/7 electricity.
 
 
-##3. Interview Web App
+# 3. Interview Web App
 It's going to be like a social media site where users can connect together according to their respective career fields
 All they are coming to do here would just be interview online call
 Users can practise their interview skills here
@@ -26,7 +26,7 @@ And we can make it freelance so demand can meet supply
 
 
 
-##4 Attendance Application that can only work on the sch's wifi network
+# 4 Attendance Application that can only work on the sch's wifi network
 
 Many users stab classes and this is getting higher in this digital day and age. Most students tell their peers to help sign for them while absent and this is very wrong.
 This attendace application will take the students attendance twice 10 minutes before class and after class.
@@ -34,7 +34,7 @@ They just need to signin and tick the clickbox
 The webapp would work on the sch's local wifi and would not need the use of data
 
 
-_##5 Social Campaign for Road Safety_
+# 5 Social Campaign for Road Safety
 Problem Statement
 Most Nigerians use their seatbelts due to the fear of Lastma and authorities. Once that is not there they don't.
 This orientation is very wrong and needs to change.
@@ -59,7 +59,7 @@ Fliers should be printed and shared out
 A 1 week online course on road safety should be taken by defaulters(Course would be taught by professionals and also youtube videos)
 
 
-*#6 - An app or extension that can blur and mute out sex scenes or nude contents in movies.*
+* # 6 An app or extension that can blur and mute out sex scenes or nude contents in movies.*
 
 
 
